@@ -476,7 +476,7 @@ input[type='submit']:hover{
 /*MEDIA QUERIES*/
 @media screen and (max-width: 760px){
     body{
-        background: url('images/w2.jpg') no-repeat center fixed;
+        background: url('images/w3.jpg') no-repeat center fixed;
         background-size: cover;
     }
 
